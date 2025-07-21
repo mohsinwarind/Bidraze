@@ -120,7 +120,9 @@ USE_L10N = True
 USE_TZ = True
 
 CSRF_COOKIE_SECURE = True
-
+CSTF_TRUSTED_ORIGINS = [
+    "https://bidraze.onrender.com"
+]
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/

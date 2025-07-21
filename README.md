@@ -95,7 +95,7 @@ Access the app at **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**.
 ## Deployment
 
 The application is deployed on **Render** for production hosting.
-[Visit Bidraze Online](https://your-bidraze-app.onrender.com/)
+[Visit Bidraze Online](https://bidraze.onrender.com)
 
 ---
 
